@@ -7,3 +7,4 @@ Created on Thu Jan 30 16:34:46 2025
 """
 
 print("hello")
+print("hate it")
